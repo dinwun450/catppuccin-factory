@@ -11,7 +11,7 @@ from rich.console import Console
 from rich.panel import Panel
 
 # CHANGE pirate TO YOUR OWN USER NAME, DO NOT CHANGE THE DIRECTORY ITSELF
-mypath="/home/faaris/Pictures/cat/"
+mypath="C:\\Users\\might\\OneDrive\\Pictures\\cat\\"
 
 def main():
 
